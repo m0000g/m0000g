@@ -1,18 +1,11 @@
 ### Hi there 👋
 
-My name is Gaby, I'm a Front-end developer with a creative side, passionate about innovation and valuable user experiences. With more than 15 years developing solutions and adapting quickly to new technologies and challenges
+My name is Gaby aka **m0000g** , I'm a Front-end developer with a creative side, passionate about innovation and valuable user experiences. 
 
-<!--
-**m0000g/m0000g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a Coffee ratio App using Flutter.
+- 🌱 I’m constantly learning about AI, Front-end, UX, UI, and management.
+- 👯 I’m looking to collaborate on Open Source projects.
+- 🤔 I’m looking for a mentor and a study partner.
+- 💬 Ask me about Interaction Design.
+- 📫 How to reach me: <https://freshorangedesign.com/>
+- ⚡ Fun fact: When I'm not coding or drawing, I'm playing the piano.
