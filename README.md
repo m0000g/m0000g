@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Gaby, I'm a Front-end developer with a creative side, passionate about innovation and valuable user experiences. With more than 15 years developing solutions and adapting quickly to new technologies and challenges
+
 <!--
 **m0000g/m0000g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
