@@ -9,3 +9,8 @@ My name is Gaby aka **m0000g** , I'm a Front-end developer with a creative side,
 - 💬 Ask me about Interaction Design.
 - 📫 How to reach me: <https://freshorangedesign.com/>
 - ⚡ Fun fact: When I'm not coding or drawing or playing the piano.
+
+## Recent Projects
+
+- CERVANTES – AI One Shot Generator <https://freshorangedesign.com/projects/cervantes-ai-one-shot-generator/>
+- CAFETUTI - Coffee Ratio Calculator created on Flutter <https://play.google.com/store/apps/details?id=com.x365.cafetito>
