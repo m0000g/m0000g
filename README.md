@@ -8,4 +8,4 @@ My name is Gaby aka **m0000g** , I'm a Front-end developer with a creative side,
 - 🤔 I’m looking for a mentor and a study partner.
 - 💬 Ask me about Interaction Design.
 - 📫 How to reach me: <https://freshorangedesign.com/>
-- ⚡ Fun fact: When I'm not coding or drawing, I'm playing the piano.
+- ⚡ Fun fact: When I'm not coding or drawing or playing the piano.
