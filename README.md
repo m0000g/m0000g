@@ -13,4 +13,4 @@ My name is Gaby aka **m0000g** , I'm a Front-end developer with a creative side,
 ## Recent Projects
 
 - CERVANTES – AI One Shot Generator <https://freshorangedesign.com/projects/cervantes-ai-one-shot-generator/>
-- CAFETUTI - Coffee Ratio Calculator created on Flutter <https://play.google.com/store/apps/details?id=com.x365.cafetito>
+- CAFETITO - Coffee Ratio Calculator created on Flutter <https://freshorangedesign.com/cafetito/> Google Play -> <https://play.google.com/store/apps/details?id=com.x365.cafetito>
