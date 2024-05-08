@@ -9,9 +9,10 @@ My name is Gaby aka **m0000g** , I'm a UX Design Engineer, passionate about inno
 - 🤔 I’m looking for a mentor and a study partner.
 - 💬 Ask me about Interaction Design.
 - 📫 How to reach me: <https://freshorangedesign.com/>
-- ⚡ Fun fact: When I'm not coding or drawing or playing the piano.
+- ⚡ Fun fact: When I'm not coding or drawing I'm playing piano.
 
 ## Recent Projects
 
-- CERVANTES – AI One Shot Generator <https://freshorangedesign.com/projects/cervantes-ai-one-shot-generator/>
-- CAFETITO - Coffee Ratio Calculator created on Flutter <https://freshorangedesign.com/cafetito/> Google Play -> <https://play.google.com/store/apps/details?id=com.x365.cafetito>
+- CERVANTES (PoC) – AI One Shot Generator <https://freshorangedesign.com/projects/cervantes-ai-one-shot-generator/>
+- CAFETITO (2 days project) - Coffee Ratio Calculator created on Flutter <https://freshorangedesign.com/cafetito/> Google Play -> <https://play.google.com/store/apps/details?id=com.x365.cafetito>
+- GALLETA DE LA FORTUNA - Flutter Flow (1 day project) <https://preview.flutterflow.app/galleta-de-la-fortuna-jfwczn/377EcUQqC8jBH4HP91ZM>
